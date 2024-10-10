@@ -5,7 +5,7 @@ version: 0.1.2
 icon: hierarchy
 private: false
 base: true
-category: flows_management
+category: base_flow_management
 python:
   - '3.9'
   - '3.10'
