@@ -1,7 +1,7 @@
 name: Flow Control
 pname: flow_control
 description: Coded Flows logic control bricks
-version: 0.1.4
+version: 0.1.5
 icon: hierarchy
 private: false
 base: true
