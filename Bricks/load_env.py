@@ -2,7 +2,7 @@ coded_flows_metadata = {
     "display_name": "LOAD ENV",
     "description": "Loading environement variables.",
     "type": "control",
-    "icon": "repeat",
+    "icon": "settings-code",
     "requirements": ["python-dotenv"],
     "options": [
         {
